@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+
+#Declare libraries
 import rospy
 from lx16a import *
 from math import sin, cos
