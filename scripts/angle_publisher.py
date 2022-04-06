@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 
+#Declare libraries
 import rospy
+
+#Declare messages used
 from std_msgs.msg import Int64
 
 def angle_publisher():
